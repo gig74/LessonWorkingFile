@@ -1,0 +1,1 @@
+type 2.txt | java -jar LessonWorkingFile.jar "fk"
